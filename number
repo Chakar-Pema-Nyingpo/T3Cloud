@@ -1,0 +1,16 @@
+const fs = require('fs');
+var rl = require('readline-sync');
+
+var firstNumber = rl.question ("Input any numbers ");
+console.log ("first number is "+ firstNumber);
+
+var numberornot = Number(firstNumber);
+
+if (!isNaN(numberornot)) {
+    console.log("It is a number!");
+    
+} else {
+    console.log("It is not a number.");
+}
+
+
