@@ -27,7 +27,7 @@ if (withdrawOrDeposit === '1' || withdrawOrDeposit === '2' ) {
             console.log("Your main balance is: " + balance);
         }
     }
-    if (withdrawOrDeposit = "3") {
+    if (withdrawOrDeposit === "3") {
         console.log(balance)
     }
 }else {

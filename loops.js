@@ -12,5 +12,3 @@
 //     }
 // }
 
-var myAnything = [4, false, "Cat", 0.423, ["Tom", 9, 41 [2,3,4]]]
- console.log(myAnything[4][5])

@@ -25,4 +25,6 @@ story = story + hobby + ". ";
 story = story + "His hobby is ";
 var like = rl.question ("What do you like");
 story = story + like + ". ";
-console.log(story);
+
+
+console.log(story); 
